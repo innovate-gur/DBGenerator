@@ -1,4 +1,6 @@
 *.pyc
 __pyache__/
 
+*.json
+
 main.py
