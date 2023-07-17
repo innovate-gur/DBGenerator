@@ -1,7 +1,17 @@
 <h1 style="text-align: center;">DBGenerator</h1>
 
-generate Database  easily
+<center>to generate simple database easily</center>
 
+## installation
+
+```console 
+git clone https://github.com/Juhyun-KK/DBGenerator
+```
+
+
+
+
+## Document
 ```python
 import DBGen.DBGen as dbg
 
